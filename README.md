@@ -27,7 +27,7 @@ cd app-face-tensorflow
 
 ## Screenshot
 
-<img src="https://github.com/Angelmmc/app-face-tensorflow/blob/main/assets/img/main_page_monitoring.png" alt="App Screen" width="1000"/>
+<img src="https://github.com/Angelmmc/app-face-tensorflow/blob/main/images/tensor_test.png" alt="App Screen" width="1000"/>
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
